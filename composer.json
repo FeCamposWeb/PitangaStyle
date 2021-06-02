@@ -1,0 +1,17 @@
+{
+    "name": "campos/pitanga-style",
+    "description": "Loja Online em PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "FeCamposGame",
+            "email": "procurandoavida@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "core\\" : "core/"
+        }
+    }
+}
